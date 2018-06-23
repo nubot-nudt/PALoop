@@ -1,6 +1,6 @@
-#Pose-Appearance-based Loop Closure Detection for Non-Linear Optimization-based SLAM
+# Pose-Appearance-based Loop Closure Detection for Non-Linear Optimization-based SLAM
 
-##Description
+## Description
 
 The loop closure detection is a key issue to eliminate the accumulative error of visual odometry. In this work, a novel pose-appearance-based loop closure detection method is proposed, inspired by the complementarity of the pose and the appearance.
 The pose-based loop closure probability model is derived based on the non-linear optimization model of the visual odometry. Then the combination of the pose-based probability and any existing appearance-based loop closure detection method is detailed. 
