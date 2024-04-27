@@ -1,4 +1,4 @@
-# Pose-Appearance-based Loop Closure Detection for Non-Linear Optimization-based SLAM
+# Fast Loop Closure Detection Using Probabilistic Integration of Pose and Appearance Similarity
 
 ## Description
 
@@ -7,7 +7,7 @@ The pose-based loop closure probability model is derived based on the non-linear
 
 This project cantians the basic implementation of the pose-based loop closure probability, in the files of ProbabilisticLoopClosing.h and ProbabilisticLoopClosing.cpp. 
 
-The proposed loop closure detection method can ONLY work together with a on-linear optimization-based visual odometry. The demonstration of applying this method in ORB-SLAM2 is provided in this project.
+As a “pure” LCD method, The proposed loop closure detection method can ONLY work together with a on-linear optimization-based visual odometry. The demonstration of applying this method in ORB-SLAM2 is provided in this project.
 
 Maintainer: NuBot workshop, NUDT China - http://nubot.trustie.net and https://github.com/nubot-nudt
 
